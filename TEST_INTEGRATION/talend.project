@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_v89T4fIZEeib-vJ0Uv22zg" label="test_integration" language="java" technicalLabel="TEST_INTEGRATION" author="_v89T4vIZEeib-vJ0Uv22zg" productVersion="Talend Cloud Data Management Platform-7.1.1.20181026_1147" url="{&quot;location&quot;:&quot;https://github.com/romtoil/test_jenkins&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_wHoS0PIZEeib-vJ0Uv22zg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_v89T4vIZEeib-vJ0Uv22zg" login="romtoil.perret@trial03142.eu.talend.com" firstName="perret" lastName="romain" type="DQ"/>
+</xmi:XMI>
